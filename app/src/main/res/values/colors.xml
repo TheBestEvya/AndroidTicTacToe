@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="backgroundColor">#FDF6E6</color>
-    <color name="titleColor">#263BD2</color>
-    <color name="statusColor">#652B83</color>
-    <color name="buttonColor">#EEE1D5</color>
-    <color name="accentColor">#CB2B16</color>
+    <color name="backgroundColor">#ADAA56</color>
+    <color name="titleColor">#2FFBD2</color>
+    <color name="statusColor">#655B83</color>
+    <color name="buttonColor">#EBB1D5</color>
+    <color name="accentColor">#CBCB16</color>
     <color name="textColor">#073392</color>
     <color name="white">#FFFFFF</color>
 </resources>
